@@ -1,0 +1,12 @@
+{
+  "name": "binauralesss",
+  "version": "1.0.0",
+  "description": "Aplicación web básica con Express para servir en localhost:3003",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
