@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/binaurales-app/static/css/main.d26de3fb.css",
+    "main.js": "/binaurales-app/static/js/main.457bd06f.js",
+    "index.html": "/binaurales-app/index.html",
+    "main.d26de3fb.css.map": "/binaurales-app/static/css/main.d26de3fb.css.map",
+    "main.457bd06f.js.map": "/binaurales-app/static/js/main.457bd06f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d26de3fb.css",
+    "static/js/main.457bd06f.js"
+  ]
+}
